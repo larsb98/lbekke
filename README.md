@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lbekke
+- 👋 Hi, I’m @larsb98
 - 👀 I’m interested in blockchain technology and web3
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me @larsb98 (twitter)
